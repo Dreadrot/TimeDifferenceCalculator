@@ -1,0 +1,8 @@
+pass two dates into program
+convert user input into proper format for calculation
+tell user the result
+
+	calculate the difference in dates:
+convert time difference value to year/month/day format
+
+LocalDate class NOT calendar class
